@@ -40,8 +40,3 @@ $ python3 ants_gui.py
       -w, --water    loads a full layout with water
       --food FOOD    number of food to start with when testing
 
-### 5. Class Project Site
-[here]
-
-[here]: <https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/ants/>
-[Plants Vs. Zombies]: <http://www.popcap.com/plants-vs-zombies-1>
